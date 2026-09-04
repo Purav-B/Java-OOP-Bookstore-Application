@@ -1,16 +1,16 @@
-Bookstore Application
+**Bookstore Application**
 
 A Java-Swing desktop application for managing a bookstore, supporting separate owner and customer roles with persistent data storage and a loyalty-based customer status system.
 
 
 
-Overview:
+**Overview:**
 
 This project implements a single-window GUI bookstore system built with Java Swing in NetBeans. Owners can manage the book catalog and customer accounts, while customers can browse books, make purchases, and earn or redeem loyalty points that determine their membership status. The system was planned using UML use-case and class diagrams before implementation, with a strong emphasis on clean object-oriented design.
 
 
 
-Features:
+**Features:**
 
 Owner Role: Login authentication, add/delete/view books, add/delete/view customers
 
@@ -23,7 +23,7 @@ Loyalty System: Customers are automatically classified as Silver or Gold based o
 
 
 
-Architecture:
+**Architecture:**
 
 GUI Layer: Built with Java Swing panels for login, owner management, and customer interactions, structured within a main BookStoreFrame
 
@@ -36,7 +36,7 @@ Purchase Handling: A PurchaseResult class captures purchase outcomes (total cost
 
 
 
-Process:
+**Process:**
 
 Designed a UML use-case diagram to define owner and customer interactions with the system
 
@@ -49,6 +49,6 @@ Tested full owner and customer workflows, including login, book/customer managem
 
 
 
-Tools Used:
+**Tools Used:**
 
 Java, Swing, NetBeans, UML (Visual Paradigm)
