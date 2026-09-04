@@ -1,4 +1,4 @@
-#Bookstore Application
+%Bookstore Application
 
 A Java-Swing desktop application for managing a bookstore, supporting separate owner and customer roles with persistent data storage and a loyalty-based customer status system.
 
